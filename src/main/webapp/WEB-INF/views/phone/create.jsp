@@ -310,7 +310,7 @@
                     <input type="text" class="form-control" id="stock">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <button type="submit" class="btn btn-primary">Thêm mới</button>
+                    <button type="submit" class="btn btn-primary btn-lg">Thêm mới</button>
                 </div>
             </form>
         </div>
